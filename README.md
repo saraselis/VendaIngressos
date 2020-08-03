@@ -4,7 +4,7 @@
 
 > Sistema de processamento de vendas de ingressos com Kafka
 
-## Author
+## Autora
 
 👤 **Sara Selis**
 * Github: [@saraselis](https://github.com/saraselis)
