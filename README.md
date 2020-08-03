@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to VendaIngressos 👋</h1>
+<h1 align="center">VendaIngressos 👋</h1>
 <p>
 </p>
 
